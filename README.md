@@ -1,0 +1,2 @@
+# Tracalorie
+Tracalorie is an application for tracking calories of meals and is developed purely using core Vanilla JavaScript concepts like modular patterns, DOM manipualtion and has used localStorage in order to reserve the info about the meal's name and its corresponding calories. User can update or delete a particular info about a meal or can simply delete all the items. Application also shows the total calories consumed.
